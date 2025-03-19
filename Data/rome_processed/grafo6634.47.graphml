@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="id" attr.type="string"/>
+<key id="d10" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d9" for="node" attr.name="eigenvector" attr.type="double"/>
+<key id="d8" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d7" for="node" attr.name="clustering" attr.type="long"/>
+<key id="d6" for="node" attr.name="degree" attr.type="long"/>
+<key id="d5" for="node" attr.name="y_pos" attr.type="float"/>
+<key id="d4" for="node" attr.name="x_pos" attr.type="float"/>
+<key id="d3" for="graph" attr.name="node_edge_resolution" attr.type="float"/>
+<key id="d2" for="graph" attr.name="node_occlusion" attr.type="long"/>
+<key id="d1" for="graph" attr.name="crosslessness" attr.type="double"/>
+<key id="d0" for="graph" attr.name="edge_crossings" attr.type="long"/>
+<graph edgedefault="undirected"><data key="d0">3</data>
+<data key="d1">0.9975490196078431</data>
+<data key="d2">0</data>
+<data key="d3">0.008819928857404518</data>
+<node id="n0">
+  <data key="d4">0.36930241379744055</data>
+  <data key="d5">-0.13055792092586982</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.11079023802369338</data>
+  <data key="d10">0.010928643773546583</data>
+</node>
+<node id="n1">
+  <data key="d4">0.33213343858408423</data>
+  <data key="d5">0.0003369192038014689</data>
+  <data key="d6">6</data>
+  <data key="d7">0</data>
+  <data key="d8">0.46827697262479867</data>
+  <data key="d9">0.3342072347063934</data>
+  <data key="d10">0.054610742608501295</data>
+</node>
+<node id="n2">
+  <data key="d4">0.1679724244631903</data>
+  <data key="d5">-0.06413738724219746</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.407085346215781</data>
+  <data key="d9">0.364869155585253</data>
+  <data key="d10">0.02525514392896788</data>
+</node>
+<node id="n3">
+  <data key="d4">0.49976010296696677</data>
+  <data key="d5">-0.09441082174630588</data>
+  <data key="d6">4</data>
+  <data key="d7">0</data>
+  <data key="d8">0.2743961352657005</data>
+  <data key="d9">0.16935087541769597</data>
+  <data key="d10">0.03948830959942084</data>
+</node>
+<node id="n4">
+  <data key="d4">0.44299861345027686</data>
+  <data key="d5">0.13792391113950617</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.043478260869565216</data>
+  <data key="d9">0.12446842231571303</data>
+  <data key="d10">0.021356583581632747</data>
+</node>
+<node id="n5">
+  <data key="d4">0.4311985720479462</data>
+  <data key="d5">0.038202967317975955</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.11079023802369338</data>
+  <data key="d10">0.010928643773546583</data>
+</node>
+<node id="n6">
+  <data key="d4">0.638139335991508</data>
+  <data key="d5">-0.09040155076507615</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.056139905427648684</data>
+  <data key="d10">0.011582003892221197</data>
+</node>
+<node id="n7">
+  <data key="d4">-0.039594707549494706</data>
+  <data key="d5">-0.18707958399300456</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.014170692431561997</data>
+  <data key="d9">0.25407891756155965</data>
+  <data key="d10">0.01751798951712342</data>
+</node>
+<node id="n8">
+  <data key="d4">0.5598660295392008</data>
+  <data key="d5">0.25740509072311857</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.041261416339022444</data>
+  <data key="d10">0.012267382816382733</data>
+</node>
+<node id="n9">
+  <data key="d4">-0.05120151195833572</data>
+  <data key="d5">0.4483536579881809</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.05539452495974235</data>
+  <data key="d9">0.032048741179999875</data>
+  <data key="d10">0.019120401849772227</data>
+</node>
+<node id="n10">
+  <data key="d4">0.13123323351901975</data>
+  <data key="d5">0.4547625567106254</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.04685990338164251</data>
+  <data key="d9">0.027726125044810767</data>
+  <data key="d10">0.01973264848172612</data>
+</node>
+<node id="n11">
+  <data key="d4">-0.31341309457753236</data>
+  <data key="d5">-0.15877678568527773</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.1571658615136876</data>
+  <data key="d9">0.10291816391780186</data>
+  <data key="d10">0.026094139715589458</data>
+</node>
+<node id="n12">
+  <data key="d4">-0.14551408328234783</data>
+  <data key="d5">-0.1913187630799114</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.1578099838969404</data>
+  <data key="d9">0.20693107070659814</data>
+  <data key="d10">0.017830716365671025</data>
+</node>
+<node id="n13">
+  <data key="d4">0.04234194493741733</data>
+  <data key="d5">-0.1580621932686543</data>
+  <data key="d6">7</data>
+  <data key="d7">0</data>
+  <data key="d8">0.3605475040257649</data>
+  <data key="d9">0.5212976523682842</data>
+  <data key="d10">0.05966780626832302</data>
+</node>
+<node id="n14">
+  <data key="d4">-0.17737096309069858</data>
+  <data key="d5">0.3235939053392135</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.12190016103059581</data>
+  <data key="d9">0.06894746768342251</data>
+  <data key="d10">0.026623755467285154</data>
+</node>
+<node id="n15">
+  <data key="d4">0.26756558352241877</data>
+  <data key="d5">0.345295811031067</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.049919484702093404</data>
+  <data key="d9">0.051587696836458675</data>
+  <data key="d10">0.01979759899514637</data>
+</node>
+<node id="n16">
+  <data key="d4">0.13941594715737132</data>
+  <data key="d5">-0.2633004550212453</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.17281262046956894</data>
+  <data key="d10">0.010437251169462024</data>
+</node>
+<node id="n17">
+  <data key="d4">-0.06041392877439966</data>
+  <data key="d5">0.20256177694190866</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.09114331723027375</data>
+  <data key="d9">0.10272393883021534</data>
+  <data key="d10">0.027996610866583227</data>
+</node>
+<node id="n18">
+  <data key="d4">-0.4205614159900806</data>
+  <data key="d5">0.017432946964475452</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.10418679549114333</data>
+  <data key="d9">0.05512611956809412</data>
+  <data key="d10">0.01801690014131533</data>
+</node>
+<node id="n19">
+  <data key="d4">-0.7875080133743178</data>
+  <data key="d5">0.1711204889810466</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.043478260869565216</data>
+  <data key="d9">0.014601277728642949</data>
+  <data key="d10">0.02157906930156617</data>
+</node>
+<node id="n20">
+  <data key="d4">-0.4963173889354675</data>
+  <data key="d5">-0.16664794944579028</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.06714975845410628</data>
+  <data key="d9">0.04306617403563616</data>
+  <data key="d10">0.02631819670454413</data>
+</node>
+<node id="n21">
+  <data key="d4">-0.17550019143576442</data>
+  <data key="d5">0.007860084885084662</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.19484702093397746</data>
+  <data key="d9">0.12053939314279821</data>
+  <data key="d10">0.025406185505289555</data>
+</node>
+<node id="n22">
+  <data key="d4">-0.573629432881355</data>
+  <data key="d5">0.3219602837910969</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.043478260869565216</data>
+  <data key="d9">0.023601963589627635</data>
+  <data key="d10">0.020878549383245893</data>
+</node>
+<node id="n23">
+  <data key="d4">-0.33547136043585524</data>
+  <data key="d5">0.2697767157279473</data>
+  <data key="d6">4</data>
+  <data key="d7">0</data>
+  <data key="d8">0.20096618357487916</data>
+  <data key="d9">0.0732036183939031</data>
+  <data key="d10">0.03469512510798683</data>
+</node>
+<node id="n24">
+  <data key="d4">-0.6564284879939587</data>
+  <data key="d5">0.4602137203552225</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.007824930820996216</data>
+  <data key="d10">0.012065006364986412</data>
+</node>
+<node id="n25">
+  <data key="d4">-0.6188066573246884</data>
+  <data key="d5">-0.06626866567962196</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.04219001610305957</data>
+  <data key="d9">0.02727348568101142</data>
+  <data key="d10">0.018527735005968368</data>
+</node>
+<node id="n26">
+  <data key="d4">-0.6424887918225025</data>
+  <data key="d5">0.09910201298798023</data>
+  <data key="d6">4</data>
+  <data key="d7">0</data>
+  <data key="d8">0.1465378421900161</data>
+  <data key="d9">0.039199568120032995</data>
+  <data key="d10">0.03707860502999736</data>
+</node>
+<node id="n27">
+  <data key="d4">0.8809423590386688</data>
+  <data key="d5">-0.5703029866322972</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.0034983730590642374</data>
+  <data key="d10">0.012977200684336134</data>
+</node>
+<node id="n28">
+  <data key="d4">-0.9389152013969764</data>
+  <data key="d5">0.19428389120257158</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.004841009141941297</data>
+  <data key="d10">0.012362429525376084</data>
+</node>
+<node id="n29">
+  <data key="d4">-0.7816195381155462</data>
+  <data key="d5">0.020957807197735382</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.012996225371232642</data>
+  <data key="d10">0.01107083464813444</data>
+</node>
+<node id="n30">
+  <data key="d4">0.8451384143952484</data>
+  <data key="d5">-0.41832627109018267</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.08599033816425121</data>
+  <data key="d9">0.010553245494132007</data>
+  <data key="d10">0.03453450934082419</data>
+</node>
+<node id="n31">
+  <data key="d4">-0.33333474281136416</data>
+  <data key="d5">-0.08914968182061919</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.06731078904991948</data>
+  <data key="d9">0.05423708185819342</data>
+  <data key="d10">0.01784673032509428</data>
+</node>
+<node id="n32">
+  <data key="d4">-0.4881105627019283</data>
+  <data key="d5">0.1795483756259636</data>
+  <data key="d6">4</data>
+  <data key="d7">0</data>
+  <data key="d8">0.2365539452495974</data>
+  <data key="d9">0.06336544649420818</data>
+  <data key="d10">0.0349744260149085</data>
+</node>
+<node id="n33">
+  <data key="d4">-0.36928059922028</data>
+  <data key="d5">0.42599335122925813</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.024268839323925165</data>
+  <data key="d10">0.01056438535501766</data>
+</node>
+<node id="n34">
+  <data key="d4">0.00364134298230325</data>
+  <data key="d5">-0.5124808259045347</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.06436118588545847</data>
+  <data key="d10">0.011940643064297558</data>
+</node>
+<node id="n35">
+  <data key="d4">0.6366349262945266</data>
+  <data key="d5">0.017126132607863487</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.056139905427648684</data>
+  <data key="d10">0.011582003892221197</data>
+</node>
+<node id="n36">
+  <data key="d4">-0.25348154137809936</data>
+  <data key="d5">0.15556163548685426</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.10289855072463772</data>
+  <data key="d9">0.0642286608723398</data>
+  <data key="d10">0.017762725960575886</data>
+</node>
+<node id="n37">
+  <data key="d4">0.7120271947612238</data>
+  <data key="d5">-0.3399980429971719</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.12463768115942028</data>
+  <data key="d9">0.024838254794027764</data>
+  <data key="d10">0.02184593107140899</data>
+</node>
+<node id="n38">
+  <data key="d4">-0.4247112832922551</data>
+  <data key="d5">-0.27644105922599044</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.020450885668276974</data>
+  <data key="d9">0.04839571054680799</data>
+  <data key="d10">0.018041854915745052</data>
+</node>
+<node id="n39">
+  <data key="d4">0.001551206957966643</data>
+  <data key="d5">0.030789823515798505</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0821256038647343</data>
+  <data key="d9">0.20686656287736965</data>
+  <data key="d10">0.018370012659930317</data>
+</node>
+<node id="n40">
+  <data key="d4">0.3111832601009649</data>
+  <data key="d5">0.17597918149020617</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0639291465378422</data>
+  <data key="d9">0.1278916771168075</data>
+  <data key="d10">0.019343194271771367</data>
+</node>
+<node id="n41">
+  <data key="d4">0.9999999999999999</data>
+  <data key="d5">-0.38843361207463545</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.0034983730590642374</data>
+  <data key="d10">0.012977200684336134</data>
+</node>
+<node id="n42">
+  <data key="d4">0.007141798666071643</data>
+  <data key="d5">-0.03686933617331859</data>
+  <data key="d6">3</data>
+  <data key="d7">0</data>
+  <data key="d8">0.19565217391304351</data>
+  <data key="d9">0.24514364331414276</data>
+  <data key="d10">0.02498980835699461</data>
+</node>
+<node id="n43">
+  <data key="d4">0.5864592178596572</data>
+  <data key="d5">-0.24488119387679264</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.16231884057971013</data>
+  <data key="d9">0.06437375459372152</data>
+  <data key="d10">0.020865643315948257</data>
+</node>
+<node id="n44">
+  <data key="d4">0.07329572366385269</data>
+  <data key="d5">-0.3071582084515989</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.17281262046956894</data>
+  <data key="d10">0.010437251169462024</data>
+</node>
+<node id="n45">
+  <data key="d4">0.0005707411591534867</data>
+  <data key="d5">-0.3495911351752674</data>
+  <data key="d6">2</data>
+  <data key="d7">0</data>
+  <data key="d8">0.043478260869565216</data>
+  <data key="d9">0.19414865284859378</data>
+  <data key="d10">0.020587218675644742</data>
+</node>
+<node id="n46">
+  <data key="d4">0.0031596724867711846</data>
+  <data key="d5">0.3484513818308622</data>
+  <data key="d6">1</data>
+  <data key="d7">0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">0.03405394240780072</data>
+  <data key="d10">0.01112425085217042</data>
+</node>
+<edge source="n0" target="n1">
+  <data key="d11">e0</data>
+</edge>
+<edge source="n1" target="n2">
+  <data key="d11">e1</data>
+</edge>
+<edge source="n1" target="n3">
+  <data key="d11">e2</data>
+</edge>
+<edge source="n1" target="n4">
+  <data key="d11">e3</data>
+</edge>
+<edge source="n1" target="n5">
+  <data key="d11">e4</data>
+</edge>
+<edge source="n1" target="n40">
+  <data key="d11">e37</data>
+</edge>
+<edge source="n2" target="n13">
+  <data key="d11">e5</data>
+</edge>
+<edge source="n2" target="n42">
+  <data key="d11">e40</data>
+</edge>
+<edge source="n3" target="n6">
+  <data key="d11">e6</data>
+</edge>
+<edge source="n3" target="n35">
+  <data key="d11">e28</data>
+</edge>
+<edge source="n3" target="n43">
+  <data key="d11">e45</data>
+</edge>
+<edge source="n4" target="n8">
+  <data key="d11">e7</data>
+</edge>
+<edge source="n7" target="n42">
+  <data key="d11">e42</data>
+</edge>
+<edge source="n7" target="n13">
+  <data key="d11">e43</data>
+</edge>
+<edge source="n9" target="n10">
+  <data key="d11">e8</data>
+</edge>
+<edge source="n9" target="n14">
+  <data key="d11">e9</data>
+</edge>
+<edge source="n10" target="n15">
+  <data key="d11">e10</data>
+</edge>
+<edge source="n11" target="n12">
+  <data key="d11">e11</data>
+</edge>
+<edge source="n11" target="n18">
+  <data key="d11">e13</data>
+</edge>
+<edge source="n11" target="n38">
+  <data key="d11">e33</data>
+</edge>
+<edge source="n12" target="n13">
+  <data key="d11">e12</data>
+</edge>
+<edge source="n13" target="n16">
+  <data key="d11">e14</data>
+</edge>
+<edge source="n13" target="n39">
+  <data key="d11">e34</data>
+</edge>
+<edge source="n13" target="n44">
+  <data key="d11">e46</data>
+</edge>
+<edge source="n13" target="n45">
+  <data key="d11">e49</data>
+</edge>
+<edge source="n14" target="n17">
+  <data key="d11">e15</data>
+</edge>
+<edge source="n14" target="n23">
+  <data key="d11">e21</data>
+</edge>
+<edge source="n15" target="n40">
+  <data key="d11">e36</data>
+</edge>
+<edge source="n17" target="n39">
+  <data key="d11">e35</data>
+</edge>
+<edge source="n17" target="n46">
+  <data key="d11">e51</data>
+</edge>
+<edge source="n18" target="n32">
+  <data key="d11">e47</data>
+</edge>
+<edge source="n19" target="n26">
+  <data key="d11">e20</data>
+</edge>
+<edge source="n19" target="n28">
+  <data key="d11">e27</data>
+</edge>
+<edge source="n20" target="n25">
+  <data key="d11">e16</data>
+</edge>
+<edge source="n20" target="n31">
+  <data key="d11">e23</data>
+</edge>
+<edge source="n20" target="n38">
+  <data key="d11">e32</data>
+</edge>
+<edge source="n21" target="n31">
+  <data key="d11">e24</data>
+</edge>
+<edge source="n21" target="n36">
+  <data key="d11">e30</data>
+</edge>
+<edge source="n21" target="n42">
+  <data key="d11">e41</data>
+</edge>
+<edge source="n22" target="n24">
+  <data key="d11">e17</data>
+</edge>
+<edge source="n22" target="n32">
+  <data key="d11">e25</data>
+</edge>
+<edge source="n23" target="n33">
+  <data key="d11">e26</data>
+</edge>
+<edge source="n23" target="n32">
+  <data key="d11">e29</data>
+</edge>
+<edge source="n23" target="n36">
+  <data key="d11">e31</data>
+</edge>
+<edge source="n25" target="n26">
+  <data key="d11">e18</data>
+</edge>
+<edge source="n26" target="n29">
+  <data key="d11">e19</data>
+</edge>
+<edge source="n26" target="n32">
+  <data key="d11">e38</data>
+</edge>
+<edge source="n27" target="n30">
+  <data key="d11">e22</data>
+</edge>
+<edge source="n30" target="n41">
+  <data key="d11">e39</data>
+</edge>
+<edge source="n30" target="n37">
+  <data key="d11">e48</data>
+</edge>
+<edge source="n34" target="n45">
+  <data key="d11">e50</data>
+</edge>
+<edge source="n37" target="n43">
+  <data key="d11">e44</data>
+</edge>
+</graph></graphml>
